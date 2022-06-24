@@ -28,6 +28,13 @@ The first file contains the actual images, whereas the second group of files lis
 
 
 ## Libraries
+* `numpy` - A package for working with arrays and matrices that provides various mathematical functions
+* `pandas` - Useful for working with and manipulating dataframes
+* `matplotlib` - A data visualization library
+* `seaborn` - Another data visualization library.  Seaborn is easier to use with dataframes
+* `opencv`- A computer vision and machine learning library.  Opencv is short for Open Source Computer Vision
+* `tensorflow` - A machine learning library
+* `keras` - A library for neural networks that runs on top of tensorflow.  Keras is more user-friendly because it is built in python
 
 ## Sources
 
