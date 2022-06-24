@@ -36,6 +36,9 @@ The first file contains the actual images, whereas the second group of files lis
 * `tensorflow` - A machine learning library
 * `keras` - A library for neural networks that runs on top of tensorflow.  Keras is more user-friendly because it is built in python
 
+## Project
+[**Link to project notebook**]()
+
 ## Sources
 
 [1] Eran Eidinger, Roee Enbar, Tal Hassner. Age and Gender Estimation of Unfiltered Faces. Transactions on Information Forensics and Security (IEEE-TIFS), special issue on Facial Biometrics in the Wild, Volume 9, Issue 12, pages 2170 - 2179, 2014. 
