@@ -37,7 +37,7 @@ The first file contains the actual images, whereas the second group of files lis
 * `keras` - A library for neural networks that runs on top of tensorflow.  Keras is more user-friendly because it is built in python
 
 ## Project
-[**Link to project notebook**]()
+[**Link to project notebook**](https://github.com/cmanning00/Age-and-Gender-Prediction/blob/a1be59d1c0cc612c631553812a4c7fc0b1bd1523/AgeGenderClass_Project.ipynb)
 
 ## Sources
 
