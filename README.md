@@ -4,7 +4,7 @@ In this project I will be designing and training convolutional neural networks t
 
 ## Data Description
 
-Downloaded the data here: [**Face Photos**](https://talhassner.github.io/home/projects/Adience/Adience-data.html)
+Download the data here: [**Face Photos**](https://talhassner.github.io/home/projects/Adience/Adience-data.html)
 
 The data for this project consists of several face photos.  They were collected from Flickr albums that contained photos automatically uploaded from people's smart phone devices and have since been released by the original owners.
 
