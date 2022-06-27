@@ -10,7 +10,7 @@ The data for this project consists of several face photos.  They were collected 
 
 The total number of photos in this dataset is 26,580 from 2,284 different subjects.  The images are of people from various different age groups which have been segmented into 8 different categories (0-2, 4-6, 8-13, 15-20, 25-32, 38-43, 48-53, 60+).
 
-There are various files you can download from the data source.  The file relevant to this project are: 
+There are various files you can download from the data source.  The files relevant to this project are: 
 * **faces.tar.gz** 
 * **fold_0_data.txt - fold_4_data.txt**
 
